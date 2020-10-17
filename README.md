@@ -7,4 +7,4 @@ It gives Power Stats about various superheroes. Users can also download wallpape
 <a href="https://superheroapi.com/">API Used"</a>
 
 <h3>UI</h3>
-![output](https://d33wubrfki0l68.cloudfront.net/7307bcbc6cb821aadb1ce983c7e1cb4cbe435115/ebf88/assets/img/superpedia.jpg)
+<img src="https://d33wubrfki0l68.cloudfront.net/7307bcbc6cb821aadb1ce983c7e1cb4cbe435115/ebf88/assets/img/superpedia.jpg" height="50%" width="50%">
